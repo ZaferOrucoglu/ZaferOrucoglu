@@ -12,10 +12,10 @@ I'm a passionate developer interested in building innovative solutions and learn
 
 ## 🌱 Technologies & Skills
 
-- **Languages:** [Your preferred programming languages]
-- **Frameworks:** [Frameworks you work with]
-- **Tools:** [Development tools and platforms]
-- **Other Skills:** [Additional technical skills]
+- **Languages:** [Programming languages I use]
+- **Frameworks:** [Frameworks I work with]
+- **Tools:** [Development tools and platforms I use]
+- **Other Skills:** [My additional technical skills]
 
 ## 💼 What I'm Working On
 
