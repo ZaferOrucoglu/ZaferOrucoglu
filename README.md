@@ -15,7 +15,7 @@ I'm a passionate developer interested in building innovative solutions and learn
 - **Languages:** Java
 - **Frameworks:** 
 - **Tools:** JetBrains IDEA, Zed, OpenCode
-- **Other Skills:** [My additional technical skills]
+- **Other Skills:**
 
 ## 💼 What I'm Working On
 
